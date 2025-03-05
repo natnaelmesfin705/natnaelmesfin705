@@ -20,8 +20,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## 🚀 My Top Projects
-- 🛒 **[E-Commerce Platform](https://github.com/your-username/ecommerce)** (React, Node.js, MySQL)  
-- 💼 **[Portfolio Website](https://github.com/your-username/portfolio)** (React, TailwindCSS)  
+- 🛒 **[E-Commerce Platform](https://github.com/natnaelmesfin705/ecommerce)** (React, Node.js, MySQL)  
+- 💼 **[Portfolio Website](https://natnaelmesfin705/porfl)** (React, TailwindCSS)  
 
 
 ---
