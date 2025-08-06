@@ -4,7 +4,6 @@
 ## 🌟 About Me
 - 💻 Passionate about building scalable web applications
 - 🎯teck stack  **React, Node.js, Tailwind CSS, MySQL,MongoDB**
-- 🔭 Currently working on: **[on E-comerce website ](https://github.com/your-username/project)**
 - ✨ Open to collaboration on exciting projects!
 
 
