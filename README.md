@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Natnael Mesfin!
-🚀 junior Full-Stack Developer   
+🚀 Full-Stack Developer   
 
 ## 🌟 About Me
 - 💻 Passionate about building scalable web applications
