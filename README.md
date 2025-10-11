@@ -38,19 +38,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<div align="center">
-
-### 🚀 Development Activity
-<img src="https://github-readme-stats.vercel.app/api?username=natnaelmesfin705&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelmesfin705&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelmesfin705&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
 ---
 
 ## 📈 Development Activity  
