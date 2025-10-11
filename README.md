@@ -1,10 +1,5 @@
 # 👋 Hi, I'm **Natnael Mesfin**  
-🚀 **Full-Stack Developer** | Passionate about creating scalable and user-focused applications  
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=natnaelmesfin705&label=Profile%20Views&color=0e75b6&style=flat" alt="natnaelmesfin705" /> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=natnaelmesfin705" alt="visitors" /> 
-</p>  
+🚀 **Full-Stack Developer** | Passionate about creating scalable and user-focused applications   
 
 ---
 
