@@ -40,13 +40,6 @@
 
 ---
 
-## 📈 Development Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natnaelmesfin705&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Recent%20Contributions" />
-</p>
-
----
 
 ## 🎯 What I Bring to the Table
 
