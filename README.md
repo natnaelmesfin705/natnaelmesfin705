@@ -90,28 +90,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
----
-
-## 📈 Profile & visitors
-
-<div align="center">
-  <!-- Reliable GitHub profile views badge (komarev ghpvc) -->
-  <img src="https://komarev.com/ghpvc/?username=natnaelmesfin705&color=7C3AED" alt="Profile views" />
-  &nbsp;&nbsp;
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=natnaelmesfin705&show_icons=true&theme=react&hide_title=true" alt="GitHub stats" />
-</div>
-
----
-
-## Notes about images & changes I made
-- I replaced a few repository-local decorative images (wave divider, bottom-wave, and the previous profile counter) with widely-used, reliable badges and services to ensure they render correctly on GitHub READMEs.
-- If you want to re-add custom SVGs (wave dividers, etc.), add them to the repository under `assets/` and reference them with the raw GitHub URL:
-  - Example: `https://raw.githubusercontent.com/natnaelmesfin705/natnaelmesfin705/main/assets/wave.svg`
-  - Make sure the asset path and filename exactly match and that the files are committed to the `main` branch.
-- The "Profile views counter" has been replaced with `komarev` (ghpvc) which is reliable and commonly used in READMEs.
-
 ---
 
 Thank you for reading — let's build something meaningful together! 🚀
