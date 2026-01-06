@@ -20,6 +20,8 @@
 </p>
 
 ---
+<br/>
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -57,6 +59,8 @@
 </div>
 
 ---
+<br/>
+<br/>
 
 ## 💡 What I Build
 
@@ -66,7 +70,8 @@
 - Clean, well-tested, maintainable code
 
 ---
-
+<br/>
+<br/>
 ## 🔍 Highlights
 
 - End-to-End Development — Concept → Production
@@ -74,6 +79,8 @@
 - Clean & Modern Code — Best practices, type-safety, and testing
 
 ---
+<br/>
+<br/>
 
 ## 📫 Get in touch
 
@@ -90,6 +97,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
----
-
-Thank you for reading — let's build something meaningful together! 🚀
