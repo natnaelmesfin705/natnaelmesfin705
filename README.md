@@ -61,7 +61,7 @@
 ## 💡 What I Build
 
 - End-to-end web applications (frontend, backend, DB, CI/CD)
-- AI-assisted features and integrations (NLP, embeddings, model orchestration)
+- AI-assisted features and integrations
 - Scalable APIs and performant user experiences
 - Clean, well-tested, maintainable code
 
