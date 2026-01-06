@@ -62,9 +62,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/natnaelmesfin705/natnaelmesfin705/main/assets/wave.svg" width="100%" alt="wave divider"/>
-</div>
 
 <h2 align="center">💼 What I Bring to the Table</h2>
 
@@ -121,12 +118,6 @@
 </div>
 
 <br/>
+<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/natnaelmesfin705/natnaelmesfin705/main/assets/bottom-wave.svg" width="100%" alt="bottom wave"/>
-</div>
 
-<!-- Visitor counter (optional) -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/natnaelmesfin705/count.svg" alt="Profile views counter" />
-</div>
