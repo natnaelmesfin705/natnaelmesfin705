@@ -8,8 +8,6 @@
   <!-- Primary badges -->
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Assisted%20Web%20Apps-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Assisted" />
-  &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
